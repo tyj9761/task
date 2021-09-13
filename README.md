@@ -1,2 +1,4 @@
 # task
 Datawhale/teamlearning-nlp/Emotional_analysis
+
+task第: 一天的任务是了解Pytorch情感分析的环境配置与基本学习内容。在配置环境的时候接触到了之前没有了解过的torchtext，查阅相关资料后了解到torchtext是一个对数据进行处理的包，并对其用法进行了简单学习。
